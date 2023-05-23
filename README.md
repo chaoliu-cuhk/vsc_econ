@@ -1,5 +1,6 @@
 # Empirical Studies Using Visual Studio Code
 Use Jupyter Notebook, STATA, Git, and Github Copilot in Visual Studio Code
+
 Benefit:
 1. Version control
 2. AI pair programmer
