@@ -1,5 +1,9 @@
 # Empirical Studies Using Visual Studio Code
 Use Jupyter Notebook, STATA, Git, and Github Copilot in Visual Studio Code
+Benefit:
+1. Version control
+2. AI pair programmer
+3. EDA and ML in Jupyter Notebook + Reghdfe in STATA
 
 ## Work with Jupyter Notebook in VS Code
 https://code.visualstudio.com/docs/datascience/jupyter-notebooks
