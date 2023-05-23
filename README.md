@@ -1,4 +1,4 @@
-# Empirical Econ/Finance Studies Using Visual Studio Code
+# Empirical Studies Using Visual Studio Code
 Use Jupyter Notebook, STATA, Git, and Github Copilot in Visual Studio Code
 
 ## Work with Jupyter Notebook in VS Code
@@ -9,3 +9,6 @@ Use method one from https://github.com/wulizyk/Notebook_Stata/wiki/Run-STATA-in-
 
 ## Use Git in VS Code
 https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
+
+## Use Github Copilot in Both Jupyter Notebook and STATA
+https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code
